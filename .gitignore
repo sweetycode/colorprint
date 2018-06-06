@@ -1,0 +1,8 @@
+.DS_Store
+*.pyc
+*~
+/dist
+/build
+/colorprint.egg-info
+/venv
+/.vscode
